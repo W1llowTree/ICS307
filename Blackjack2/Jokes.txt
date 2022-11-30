@@ -1,0 +1,11 @@
+"What did the fish say when he swam into a wall?" "Dam."
+"What do you call a fish with no eyes?" "A fsh."
+"Why do programmers like dark mode?" "Light attracts bugs"
+"There are 10 types of people in the world. Those who understand binary, and those who don't."
+"Why do Java developers wear glasses?" "Because they cannot C#"
+"It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter." - Nathaniel Borenstein
+"How many programmers does it take to screw in a light bulb?" "None. It's a hardware problem."
+"A guy walks into a bar and asks for 1.4 root beers. The bartender says I'll have to charge you extra, that's a root beer float". The guy says "In that case, better make it a double."
+"A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn’t."
+"How do objects become wealthy?" "Inheritance."
+"Why did the programmer quit his job?" "He didn't get arrays."
